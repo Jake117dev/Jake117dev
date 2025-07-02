@@ -44,6 +44,80 @@ designt für maximale Sicherheit, Selbstkontrolle und Erweiterbarkeit.
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jake117dev/Jake117dev/main/banner.png" alt="Jake117dev Cyberpunk Banner" />
+</p>
+
+<h1 align="center">🧠 Automation. Backup. Control.</h1>
+<p align="center"><i>„Ich baue Systeme, die sich selbst sichern, schützen und weiterentwickeln.“</i></p>
+
+---
+
+## 🛠️ Skills & Tools
+
+### ⚙️ System & Scripting  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnu-bash)
+![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)
+![Batch](https://img.shields.io/badge/-Batch-05122A?style=flat)
+
+### 🧪 Automatisierung & DevOps  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
+![rclone](https://img.shields.io/badge/-rclone-05122A?style=flat)
+![ntfy](https://img.shields.io/badge/-ntfy.sh-05122A?style=flat)
+![WireGuard](https://img.shields.io/badge/-WireGuard-05122A?style=flat)
+
+### 🛠️ APIs & Frameworks  
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![Requests](https://img.shields.io/badge/-Requests-05122A?style=flat)
+
+### 🧠 AI & Vektor-Tools  
+![Ollama](https://img.shields.io/badge/-Ollama-05122A?style=flat)
+![Qdrant](https://img.shields.io/badge/-Qdrant-05122A?style=flat)
+![SentenceTransformers](https://img.shields.io/badge/-SentenceTransformers-05122A?style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat)
+
+### 🗃️ Daten & Struktur  
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat)
+![YAML](https://img.shields.io/badge/-YAML-05122A?style=flat)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat)
+
+### 🧰 OS & Plattformen  
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberrypi)
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
+
+---
+
+## 📦 Projekt-Highlights
+
+### 🔹 USS-Stack – Universal Automation Framework  
+> Modulares Agentensystem zur Automatisierung von Backup, RAID-Überwachung, Statusmeldungen, LLM-Vektor-Schnittstellen und FastAPI-Kommandosteuerung.  
+> **Tech:** Python, rclone, Qdrant, SentenceTransformers, FastAPI, systemd, ntfy, RAID-Scan
+
+### 🔹 AD-DevOps-Suite  
+> PowerShell-basierte Tools zur automatisierten Verwaltung von AD-Strukturen in produktiven IT-Umgebungen (User, Gruppen, Ordnerrechte, OU-Verwaltung).  
+> **Tech:** PowerShell, Active Directory, CSV-Mapping, Folder ACL, Regex-Maskierung
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jake117dev&show_icons=true&theme=github_dark" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jake117dev&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Kontakt
+
+📧 **Mail:** `jake117dev@protonmail.com`  
+🌐 **Portfolio:** [optional einfügen]  
+💼 **Suche nach:** Projektbezogener Arbeit (DevOps / Automatisierung / Agentensysteme)
+
 ## Kontakt & Ausblick
 
 **GitHub:** [Jake117dev](https://github.com/Jake117dev)  
