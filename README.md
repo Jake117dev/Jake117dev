@@ -1,5 +1,11 @@
-# Hey, ich bin Jake117dev 🧠💻  
-**„Ich baue Systeme, die sich selbst sichern, schützen und weiterentwickeln.“**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jake117dev/Jake117dev/main/80A61811-499F-4ED5-A653-D4C8C812ED7F.png" alt="Jake117dev Cyberpunk Banner" />
+</p>
+
+<h1 align="center">🧠 Automation. Backup. Control.</h1>
+<p align="center"><i>„Ich baue Systeme, die sich selbst sichern, schützen und weiterentwickeln.“</i></p>
+
+---
 
 Willkommen auf meinem GitHub!  
 Hier entsteht eine Sammlung modularer Agenten, automatisierter Tools und KI-tauglicher Systemstrukturen –  
@@ -41,15 +47,6 @@ designt für maximale Sicherheit, Selbstkontrolle und Erweiterbarkeit.
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ntfy](https://img.shields.io/badge/-ntfy.sh-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNycgaGVpZ2h0PScxNycgdmlld0JveD0nMCAwIDM1MCAzNTAnPjxwYXRoIGZpbGw9JyNmZmYnIGQ9J00xNzUgMzUwYTAgMCAwIDAgMSAwLTM1MEEzNTAgMzUwIDAgMCAxIDE3NSAzNTB6Jy8+PC9zdmc+&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jake117dev/Jake117dev/main/80A61811-499F-4ED5-A653-D4C8C812ED7F.png" alt="Jake117dev Cyberpunk Banner" />
-</p>
-
-<h1 align="center">🧠 Automation. Backup. Control.</h1>
-<p align="center"><i>„Ich baue Systeme, die sich selbst sichern, schützen und weiterentwickeln.“</i></p>
 
 ---
 
