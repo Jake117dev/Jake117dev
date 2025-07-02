@@ -90,18 +90,6 @@ designt für maximale Sicherheit, Selbstkontrolle und Erweiterbarkeit.
 
 ---
 
-## 📦 Projekt-Highlights
-
-### 🔹 USS-Stack – Universal Automation Framework  
-> Modulares Agentensystem zur Automatisierung von Backup, RAID-Überwachung, Statusmeldungen, LLM-Vektor-Schnittstellen und FastAPI-Kommandosteuerung.  
-> **Tech:** Python, rclone, Qdrant, SentenceTransformers, FastAPI, systemd, ntfy, RAID-Scan
-
-### 🔹 AD-DevOps-Suite  
-> PowerShell-basierte Tools zur automatisierten Verwaltung von AD-Strukturen in produktiven IT-Umgebungen (User, Gruppen, Ordnerrechte, OU-Verwaltung).  
-> **Tech:** PowerShell, Active Directory, CSV-Mapping, Folder ACL, Regex-Maskierung
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -111,12 +99,6 @@ designt für maximale Sicherheit, Selbstkontrolle und Erweiterbarkeit.
 </p>
 
 ---
-
-## 📫 Kontakt
-
-📧 **Mail:** `jake117dev@protonmail.com`  
-🌐 **Portfolio:** [optional einfügen]  
-💼 **Suche nach:** Projektbezogener Arbeit (DevOps / Automatisierung / Agentensysteme)
 
 ## Kontakt & Ausblick
 
