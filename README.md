@@ -45,7 +45,7 @@ designt für maximale Sicherheit, Selbstkontrolle und Erweiterbarkeit.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jake117dev/Jake117dev/main/banner.png" alt="Jake117dev Cyberpunk Banner" />
+  <img src="https://raw.githubusercontent.com/Jake117dev/Jake117dev/main/80A61811-499F-4ED5-A653-D4C8C812ED7F.png" alt="Jake117dev Cyberpunk Banner" />
 </p>
 
 <h1 align="center">🧠 Automation. Backup. Control.</h1>
