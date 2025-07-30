@@ -25,6 +25,12 @@ designt für maximale Sicherheit, Selbstkontrolle und Erweiterbarkeit.
 
 ## Meine Top-Projekte
 
+
+### [USS-Injection.Defend (Work in Progress)](https://github.com/Jake117dev/USS-Injection.Defend)
+> Aktives Sicherheitsmodul welches direkt am KI-Modul hängt
+> filter alle Prompt-Injections die mit derzeitigen KI-Agents meistens nicht erkannt werden, da die Architektur jeglichen Input durch den Prompt-Speicher zieht
+> erkennt selbst verschachtelte Injections welche in Satz/Wortverflechtungen eingegraben wurden
+
 ### [NetWatch-Agent (Work in Progress)](https://github.com/Jake117dev/NetWatch-Agent)
 > Autonomer Verteidigungsagent mit RAID-Monitoring, Backup-Automatisierung & ntfy-Anbindung  
 > Ziel: Echtzeit-Überwachung & Reaktion mit KI-Erweiterung
